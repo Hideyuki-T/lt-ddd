@@ -17,5 +17,5 @@
 
 次のスライドでは、個人開発に潜む“痛み”をより具体的に見ていきます。
 
-[README.md](../README.md)
+[README.md](../README.md)<br>
 [02_challenges.md](./02_challenges.md)<br>
