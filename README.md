@@ -17,10 +17,10 @@ lt-ddd/
     ├── 01_intro.md
     ├── 02_challenges.md
     ├── 03_vision_of_ideal_dev.md
-    ├── 04_key_concepts.md         # DDD のキーコンセプト（要点3つに絞った軽量版）
+    ├── 04_key_concepts.md         
     ├── 05_pros_and_cons.md
-    ├── 06_simple_structure.md     # 推奨構成と各層役割のシンプルサマリ
-    ├── 07_core_components.md      # 実装例の主要コンポーネント要約
+    ├── 06_simple_structure.md   
+    ├── 07_core_components.md    
     ├── 08_tips_for_beginners.md
     └── 09_summary.md
 ```
